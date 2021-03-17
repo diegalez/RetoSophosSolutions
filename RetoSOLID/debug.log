@@ -1,0 +1,28 @@
+[0917/222918.494:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0917/223650.142:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0917/230807.618:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0917/233351.785:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0918/082004.956:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0918/200508.771:ERROR:file_io_win.cc(162)] CreateFile C:\Users\1742708\AppData\Local\Temp\scoped_dir37588_1249560586\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0918/200508.772:ERROR:file_io_win.cc(171)] CreateFile C:\Users\1742708\AppData\Local\Temp\scoped_dir37588_1249560586\Crashpad\reports\62ed29ed-5ac8-4ce4-84de-f72bb2b25bd9.dmp: The system cannot find the path specified. (0x3)
+[0918/200508.772:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0918/202236.721:ERROR:file_io_win.cc(162)] CreateFile C:\Users\1742708\AppData\Local\Temp\scoped_dir39104_287892633\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0918/202236.722:ERROR:file_io_win.cc(171)] CreateFile C:\Users\1742708\AppData\Local\Temp\scoped_dir39104_287892633\Crashpad\reports\47119e9e-aa27-4ff4-8137-143e19a8311e.dmp: The system cannot find the path specified. (0x3)
+[0918/202236.722:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0918/210709.254:ERROR:file_io_win.cc(162)] CreateFile C:\Users\1742708\AppData\Local\Temp\scoped_dir12276_116932821\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0918/210709.255:ERROR:file_io_win.cc(171)] CreateFile C:\Users\1742708\AppData\Local\Temp\scoped_dir12276_116932821\Crashpad\reports\4275798c-b37e-4ac1-a4aa-0389b852a1a6.dmp: The system cannot find the path specified. (0x3)
+[0918/210709.255:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0918/212753.213:ERROR:file_io_win.cc(162)] CreateFile C:\Users\1742708\AppData\Local\Temp\scoped_dir42228_286398200\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0918/212753.214:ERROR:file_io_win.cc(171)] CreateFile C:\Users\1742708\AppData\Local\Temp\scoped_dir42228_286398200\Crashpad\reports\97e48c78-8cb2-47d6-8f60-fd89e0c7e940.dmp: The system cannot find the path specified. (0x3)
+[0918/212753.214:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0918/214116.864:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0918/220016.028:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0918/221756.108:ERROR:file_io_win.cc(162)] CreateFile C:\Users\1742708\AppData\Local\Temp\scoped_dir29216_834690664\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0918/221756.110:ERROR:file_io_win.cc(171)] CreateFile C:\Users\1742708\AppData\Local\Temp\scoped_dir29216_834690664\Crashpad\reports\1df72803-d5b4-4105-98a1-8b97be270190.dmp: The system cannot find the path specified. (0x3)
+[0918/221756.110:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0919/092933.672:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0919/093349.339:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0919/093727.720:ERROR:prune_crash_reports.cc(36)] PruneCrashReportDatabase: Failed to get pending reports
+[0921/112803.466:ERROR:file_io_win.cc(162)] CreateFile C:\Users\1742708\AppData\Local\Temp\scoped_dir15844_1961806541\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0921/112803.470:ERROR:file_io_win.cc(171)] CreateFile C:\Users\1742708\AppData\Local\Temp\scoped_dir15844_1961806541\Crashpad\reports\922d4f60-d29f-4efa-aea9-292aa5eeb3d3.dmp: The system cannot find the path specified. (0x3)
+[0921/112803.470:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
